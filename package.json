@@ -1,0 +1,20 @@
+{
+  "name": "message-quote-generator",
+  "version": "1.0.0",
+  "description": "A package to generate greeting messages with optional random quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greeting",
+    "quotes",
+    "message",
+    "template"
+  ],
+  "author": "Dhanush Nehru",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  }
+}
